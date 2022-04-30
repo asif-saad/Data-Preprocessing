@@ -2,7 +2,7 @@
 
 The course was intended to let the people get acquianted with the basics of data processing and understanding the hidden clues and corelate the numerical and visual data.
 
-It was run by [EMK center]("https://emkcenter.org"), as part of their broader bootcamp which has the aim to cover the basics and fundamentals of Machine Learning.
+It was run by [EMK center]('https://emkcenter.org'), as part of their broader bootcamp which has the aim to cover the basics and fundamentals of Machine Learning.
 
 Assignments were provided in order to evaulate the learners' understanding and let them witness the practial implementation of Data Processing.
 <br><br>
